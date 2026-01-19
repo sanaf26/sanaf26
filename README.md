@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there I'm Sana 👋
 
-<!--
-**sanaf26/sanaf26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Associate Analytics Engineer, currently on an analytics engineering bootcamp with Coding Black Females and building my GitHub skills.
 
-Here are some ideas to get you started:
+## 🌱 What I'm learning
+- Command line commands
+- Analytics engineering
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I'm working on
+- Data bootcamp projects
+- Practicing version control with GitHub
+
+## 🎯 Interests
+- Data & problem solving
+- Learning new tools
+- Coffee ☕️
+
+Thanks for stopping by!
